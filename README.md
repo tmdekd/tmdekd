@@ -22,13 +22,16 @@
 
   </div>
 
+  <br/>
+  
   <div align="left">
-    
-  ## 🛠️ Tech Stacks 
+
+  ### 🛠️ Tech Stacks - <span><a href="https://hongssup.tistory.com/243" target="_blank">참고 사이트</a></span>
+  
   </div>
 
-  <div> 
-    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
+  <div>
+    <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
