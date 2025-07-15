@@ -26,8 +26,8 @@
   
   <div align="left">
 
-  ### 🛠️ Tech Stacks - <span><a href="https://hongssup.tistory.com/243" target="_blank">참고 사이트</a></span>
-  
+  ### 🛠️ Tech Stacks - 
+  <span><a href="https://hongssup.tistory.com/243" target="_blank">참고 사이트</a></span>
   </div>
 
   <div>
