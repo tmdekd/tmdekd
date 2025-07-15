@@ -1,7 +1,10 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&text=SEUNGGI's%20CODE&animation=fadeIn&fontColor=ffffff&fontSize=60" alt="Seunggi's CODE">
-
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+SEUNGGI's+GitHub;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  </p>
+  
   <div align="left">
     
   ## 😊 Introduction
