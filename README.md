@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&text=SEUNGGI's%20CODE&animation=fadeIn&fontColor=ffffff&fontSize=60" alt="Seunggi's CODE">
     
   <div align="left">
-    
     ## 😊 Introduction
   </div>
-
+  
   안녕하세요!  
   AI 모델과 서비스를 개발하는 데 관심을 가지고 있는 주니어 개발자 문승기입니다.  
   
@@ -23,6 +22,7 @@
   더 나은 서비스를 만들기 위해 오늘도 꾸준히 성장하고 있습니다.
   
   <br>
+
 
   <div align="left">
     
