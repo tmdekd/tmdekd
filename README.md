@@ -63,6 +63,9 @@
     <a href="mailto:moon010103@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com&height=180">
     </a>
+    <a href="mailto:moon010103@naver.com">
+      <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:moon010103@naver.com&height=180">
+    </a>
   </div>
   
   <br>
