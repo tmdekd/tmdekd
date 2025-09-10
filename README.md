@@ -75,7 +75,6 @@
   </div>
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=tmdekd&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height: 180px;" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdekd&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height: 180px;" /> 
   </div>
 
